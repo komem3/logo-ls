@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Yash-Handa/logo-ls/assets"
-	"github.com/Yash-Handa/logo-ls/internal/api"
-	"github.com/Yash-Handa/logo-ls/internal/ctw"
-	"github.com/Yash-Handa/logo-ls/internal/sysState"
+	"github.com/komem3/logo-ls/assets"
+	"github.com/komem3/logo-ls/internal/api"
+	"github.com/komem3/logo-ls/internal/ctw"
+	"github.com/komem3/logo-ls/internal/sysState"
 )
 
 // create the open dir icon
